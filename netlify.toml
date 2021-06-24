@@ -5,6 +5,13 @@
   force = true
 
 [[redirects]]
+  from = "/"
+  to = "/it"
+  status = 301
+  force = true
+  conditions = {Country = ["IT"]}
+
+[[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/en/index.html"
   status = 200
