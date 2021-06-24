@@ -4,17 +4,8 @@
   status = 301
   force = true
 
-
 [[redirects]]
-  from = "/"
-  to = "/it"
+  from = "http://contest.diplock.tk/*"
+  to = "http://diplock.app.link/:splat"
   status = 301
   force = true
-  conditions = {Country = ["IT"]}
-
-[[redirects]]
-  from = "/"
-  to = "/fr"
-  status = 301
-  force = true
-  conditions = {Country = ["FR"]}
