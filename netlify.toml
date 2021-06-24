@@ -1,11 +1,5 @@
 [[redirects]]
-  from = "https://contest.diplock.tk/*"
+  from = "https://diplock.tk/contest/*"
   to = "https://diplock.app.link/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://contest.diplock.tk/*"
-  to = "http://diplock.app.link/:splat"
   status = 301
   force = true
