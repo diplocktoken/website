@@ -21,4 +21,3 @@
   from = "/*"
   to = "/en"
   status = 301
-  force = true
