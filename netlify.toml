@@ -13,5 +13,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/en/index.html"
-  status = 200
+  to = "/en"
+  status = 301
