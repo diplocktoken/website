@@ -4,10 +4,6 @@
  * Copyright 2014-2020 Froala Labs
  */
 
-.alreadyAnimated {
-  animation-duration: 0ms!important;
-}
-
 .fr-clearfix::after {
   clear: both;
   display: block;
